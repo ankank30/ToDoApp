@@ -2,6 +2,8 @@
 
 A basic to-do app with dummy elements.
 
+Main.dart (main file with basic implementation codes) can be found at '\lib\main.dart'
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
