@@ -1,6 +1,6 @@
-# note_app
+# Todo_app
 
-A new Flutter application.
+A basic to-do app with dummy elements.
 
 ## Getting Started
 
@@ -9,6 +9,7 @@ This project is a starting point for a Flutter application.
 A few resources to get you started if this is your first Flutter project:
 
 - [Lab: Write your first Flutter app](https://flutter.io/docs/get-started/codelab)
+- [Video Tutorial: Setup first Flutter project](https://www.youtube.com/watch?v=BDRQxfWrozY)
 - [Cookbook: Useful Flutter samples](https://flutter.io/docs/cookbook)
 
 For help getting started with Flutter, view our 
